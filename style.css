@@ -1,0 +1,51 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background-image: url('./controller.jpeg');
+  background-repeat: no repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  color: whitesmoke;
+  font-family: 'Concert One', cursive;
+
+
+}
+
+.container h2{
+  padding-top: 220px;
+  padding-left: 620px;
+  font-family: 'Special Elite', cursive;
+  font-size: 30px;
+  color: lightgreen;
+
+}
+
+.container p{
+  padding-top: 350px;
+  color: #ee6060;
+  width: 300px;
+  text-align: center;
+  padding-left: 570px;
+}
+
+.container .button{
+    margin-left: 700px;
+    padding: 4px 10px;
+    background-color: red;
+    border-radius: 4px;
+    margin-top: 15px;
+    color: #ee6060;
+}
+
+.button a{
+  text-decoration: none;
+  color: white;
+}
+
+.button:hover{
+  background-color: pink;
+}
