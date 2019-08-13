@@ -14,6 +14,10 @@ body{
 }
 
 
+.container{
+  padding-left: 200px;
+}
+
 
 .container h2{
   padding-top: 220px;
@@ -25,15 +29,15 @@ body{
 }
 
 .container p{
-  padding-top: 350px;
+  padding-top: 150px;
   color: #ee6060;
   width: 300px;
   text-align: center;
-  padding-left: 570px;
+  padding-left: 800px;
 }
 
 .container .button{
-    margin-left: 700px;
+    margin-left: 940px;
     padding: 4px 10px;
     background-color: red;
     border-radius: 4px;
